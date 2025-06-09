@@ -9,15 +9,10 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-# When set to "true", a search index is built from the pages and section
-# content for `default_language`.
 build_search_index = true 
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customized by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-
 highlight_theme = "one-dark"
 
 [search]
@@ -31,12 +26,23 @@ after_dark_menu = [
     {url = "$BASE_URL/tags", name = "Tags"},
 ]
 after_dark_title = "Empieza con tu libertad tecnológica"
-
-# Nicer codeblocks with copy to clipboard 
 codeblock = true
-
-# Enable MathJax support
 latex = true
+enable_search = true
 
-# Enable search bar 
-enable_search = true 
++++
+title = "Mi primer post"
+date = 2024-06-08
+categories = ["General"]
+tags = ["inicio"]
++++
+
+¡Este es el contenido de mi primer post!
+
++++
+paginate_by = 5
++++
+
+# ¡Bienvenido a SatsCoinSV!
+
+Aquí encontrarás mis publicaciones sobre Bitcoin, Nostr y tecnología.

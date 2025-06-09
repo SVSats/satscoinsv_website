@@ -4,6 +4,8 @@ paginate_by = 5
 
 # ¡Bienvenido a SatsCoinSV!
 
+Aquí encontrarás mis publicaciones sobre Bitcoin, Nostr y tecnología.
+
 Soy un entusiasta de Linux, bitcoin y Nostr. Creo en la soberanía individual, el dinero duro y las herramientas libres para construir un futuro más justo y resistente a la censura.
 Vuélvete soberano, vuélvete libre. Ejecutando Bitcoin🟠 Nostr🟣 Lightning⚡️
 
