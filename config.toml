@@ -1,4 +1,4 @@
-base_url = "http://127.0.0.1:1111"
+base_url = "https://svsats.github.io/satscoinsv_website/"
 compile_sass = true
 title = "after-dark"
 description = "A robust, elegant dark theme"
@@ -39,4 +39,4 @@ codeblock = true
 latex = true
 
 # Enable search bar 
-enable_search = true 
+enable_search = true
